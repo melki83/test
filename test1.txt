@@ -1,0 +1,1 @@
+gulp gitsend -m "My changes"
